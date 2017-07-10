@@ -1,0 +1,19 @@
+.menu{
+	background: red;
+	width: 200px;
+	height: 200px;
+	
+}
+.menu ul{
+	margin: 0;
+}
+.menu ul li{
+	background: green;
+	list-style: none;
+	margin-top: 10px;
+	
+}
+.menu ul li a{
+	text-decoration: none;
+	
+}
